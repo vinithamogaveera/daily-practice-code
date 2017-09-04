@@ -1,0 +1,15 @@
+{
+  "name": "daily-practice-code",
+  "version": "1.0.0",
+  "description": "node js daily practice code",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinitha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "readmeFilename": "README.md"
+}
